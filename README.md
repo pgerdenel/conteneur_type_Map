@@ -16,3 +16,5 @@ l’utilisateur(TPair) et qui sera stocké dans l’arbre de la Map
 - Template MyMap<class K, class T, class Compare=std::less<K>>
 La template MyMap est la class finale représentant la map, elle gère les TNode et les
 organise en un arbre de type rouge-noir
+
+(public version)
